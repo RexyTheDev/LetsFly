@@ -1,0 +1,7 @@
+name: LetsFly
+version: 1.0
+author: MommyRexy
+main: me.Rex.LetsFly.Main
+
+commands:
+  fly:
